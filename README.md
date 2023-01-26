@@ -17,15 +17,13 @@ Step 4: End the program
 
 ## Program:
 LU-Decomposition:
- Developed by: Berjin Shabeck
- Ref no: 22007550
 (i) To find the L and U matrix
 
 /*
 ## Program to find the L and U matrix.
-# Developed by: Berjin Shabeck
-# RegisterNumber: 22007550
-``` python
+``` python 
+#Developed by: Berjin Shabeck
+#RegisterNumber: 22007550
 import numpy as np
 from scipy.linalg import lu
 A = np.array(eval(input()))
@@ -35,9 +33,9 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 ```
  ## Program to find the LU Decomposition of a matrix.
- # Developed by: Berjin Shabeck
- # RegisterNumber: 22007550
 ``` python
+#Developed by: Berjin Shabeck
+#RegisterNumber: 22007550
 import numpy as np 
 from scipy.linalg import lu_factor, lu_solve
 A = np.array(eval(input()))
