@@ -22,7 +22,7 @@ LU-Decomposition:
 (i) To find the L and U matrix
 
 /*
- Program to find the L and U matrix.
+## Program to find the L and U matrix.
 Developed by: Berjin Shabeck
 RegisterNumber: 22007550
 ``` python
@@ -34,7 +34,8 @@ print(L)
 print(U)
 (ii) To find the LU Decomposition of a matrix
 ```
- Program to find the LU Decomposition of a matrix. Developed by: Berjin Shabeck
+ ## Program to find the LU Decomposition of a matrix.
+ Developed by: Berjin Shabeck
  RegisterNumber: 22007550
 ``` python
 import numpy as np 
