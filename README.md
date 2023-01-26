@@ -45,8 +45,8 @@ b = np.array(eval(input()))
 lu, piv = lu_factor(A)
 x = lu_solve((lu, piv), b)
 print(x)
-``
-## Output:
+```
+### Output:
 
 ![lu decomposition](./ludec.png)
 
